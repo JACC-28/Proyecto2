@@ -1,0 +1,11 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+ul li ul {
+    list-style-type: disc;
+}
